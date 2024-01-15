@@ -12,7 +12,6 @@ const iconMap = {
   pending: ClockIcon,
   invoices: InboxIcon,
 };
-
 export default async function CardWrapper() {
   return (
     <>
